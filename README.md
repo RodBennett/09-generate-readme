@@ -2,8 +2,6 @@
 
 [Video demo link](https://drive.google.com/file/d/1BrPl1pGyOUTQMUJdZ8WmfSW7YKyk4B9O/view)
 
-[Deployment Link](https://rodbennett.github.io/nodejs-readme-generator/)
-
 
 In this assignment, I generated a README markdown through the command line with Node.JS.  The npm package Inquirer was also used for question prompting in the command line.
 
