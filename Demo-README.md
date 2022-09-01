@@ -1,6 +1,6 @@
-![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  # s
+  # README Generator
   
 
   ## Table of Contents:
@@ -15,28 +15,28 @@
   
 
   ### Description
-  s
+  This project is designed to create a README markdown from the command line.
   
   ### Installation
-  s
+  To install this program, the user should download the npm "Inquirer"
   
   ### Test
-  s
+  To test this app, run node index.js in the command line.
   
   ### Contribution
-  s
+  At this time, this repository is not open for contributors.
   
   ### User
-  s
+  Rod Bennett
 
   ### Github
-  s
+  https://github.com/RodBennett/09-generate-readme.git
 
   ### Email
-  s
+  rod.bennett75@gmail.com
 
   ### Contact
   Email
 
   ### License 
-   https://opensource.org/licenses/Apache-2.0
+   https://opensource.org/licenses/MIT
